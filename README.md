@@ -100,16 +100,9 @@ DELETE | /expense/{id} | delete expense with id
 Please feel free to submit [issues](https://github.com/Ravi879/BudgetManager-Angular-Spring-Boot/issues) with any bugs or other unforeseen issues you experience.
 
 
-## Author
-
-- Ravi Gadhiya  
-[https://github.com/Ravi879](https://github.com/Ravi879)  
-[https://www.linkedin.com/in/gadhiyaravi](https://www.linkedin.com/in/gadhiyaravi)  
 
 
-### Why I have create this repository?
 
-I was learning the spring boot and angular framework, and wanted to build something with what i have learnt. So i thought create a simple application which have the basic functionality like, login, registeration, session management and CRUD operation. I have create the spring boot application with spring security for securing REST API and consuming it from the angular application.
 
 
 ### Thanks
