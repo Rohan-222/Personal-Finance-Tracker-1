@@ -3,7 +3,7 @@
 
 This is a simple web application to track the income and expense. User can register, login and, add, remove or edit the income or expense item details.
 
-### For Live Demo, [Click here](https://ravi879.github.io/BudgetManager-Angular-Spring-Boot/homepage).
+
 
 
 ## Screenshot
